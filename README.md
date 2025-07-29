@@ -1,11 +1,11 @@
 ## ☁️ Hybrid Cloud Sync: AWS S3 → Azure Blob
 ```
-<img width="1980" height="1403" alt="overview" src="https://github.com/user-attachments/assets/f4c2c44a-2b14-473f-a55f-46f43c2c7f4e" />
-
+<img width="1980" height="1403" alt="overview" src="https://github.com/user-attachments/assets/c214cf53-37ad-4e3f-8e6b-54ae9d77bf12" />
 
 This Python script automates one-way file synchronization from AWS S3 to Azure Blob Storage. It’s ideal for hybrid cloud use cases such as backup, migration, or cross-cloud redundancy.
 
-<img width="1116" height="666" alt="Diagram" src="https://github.com/user-attachments/assets/d82a62fe-722c-4413-a46e-3eb21d97cd6f" />
+<img width="1116" height="666" alt="Diagram" src="https://github.com/user-attachments/assets/5229c154-294a-4fbd-945d-8a33d16c9a63" />
+
 
 
 ## 📦 Features
