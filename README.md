@@ -121,6 +121,3 @@ _System Administrator & DevOps Engineer_
 
 ---
 
-## 📄 License
-
-This project is licensed under the **MIT License**.
