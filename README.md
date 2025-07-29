@@ -3,8 +3,10 @@
 <img width="1980" height="1403" alt="overview" src="https://github.com/user-attachments/assets/3e0cd154-5200-45e9-98e1-81b805a50382" />
 
 
-This Python script automates **one-way file synchronization** from **AWS S3** to **Azure Blob Storage**.  
+## This Python script automates **one-way file synchronization** from **AWS S3** to **Azure Blob Storage**.  
 It’s ideal for hybrid cloud use cases such as backup, migration, or cross-cloud redundancy.
+
+<img width="1116" height="666" alt="Diagram" src="https://github.com/user-attachments/assets/05501a5e-48f0-44ba-89ff-483bacc2d1bb" />
 
 ---
 
